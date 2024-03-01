@@ -1,7 +1,5 @@
 # CanvasPlotter (work in prgogress) #
-Simple plotter for IOT which 
-
-CanvasPlot is an evolving JavaScript library designed for straightforward plotting using HTML Canvas. This project is currently in progress, aimed at providing developers with a lightweight and dependency-free solution for creating simple charts and graphs. The goal is to offer an intuitive plotting experience that respects user privacy, works offline, and requires no external dependencies.
+CanvasPlot is a very simple plotter designed for straightforward plotting using HTML Canvas and nothing more. This project is currently in progress, aimed at providing developers with a lightweight and dependency-free solution for creating simple charts and graphs (for example for your offline IOT-device). The goal is to offer an intuitive plotting experience that respects user privacy, works offline, and requires no external dependencies.
 
 ## Features ##
 

@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head><style>.shade {border:5px solid #4db8ff; margin-left:10px; padding:5px; background-color: #eef;box-shadow: -6px -6px rgba(0,0,0,0.6);-moz-box-shadow: -6x -6x rgba(0,0,0,0.6);-webkit-box-shadow: -6px -6px rgba(0,0,0,0.6);-o-box-shadow: -6px -6px rgba(0,0,0,0.6);}
-h1 {text-align: margin-left:30px; left;padding: 10px;margin-top: -45px;font-family: Helvetica, sans-serif;font3-size: 50px;transform: skewY(-6deg);letter-spacing: 4px;word-spacing: -8px;color: #4db8ff;text-shadow: -1px -1px 0 firebrick,-2px -2px 0 firebrick,-3px -3px 0 #002080, -4px -4px 0 #002080, -5px -5px 0 #002080, -6px -6px 0 #002080, -7px -7px 0 #002080, -8px -8px 0 #002080, -30px 20px 40px dimgrey }
+h1 {text-align: margin-left:30px; left;padding: 10px;margin-top: 5px;font-family: Helvetica, sans-serif;font3-size: 50px;transform: skewY(-6deg);letter-spacing: 4px;word-spacing: -8px;color: #4db8ff;text-shadow: -1px -1px 0 firebrick,-2px -2px 0 firebrick,-3px -3px 0 #002080, -4px -4px 0 #002080, -5px -5px 0 #002080, -6px -6px 0 #002080, -7px -7px 0 #002080, -8px -8px 0 #002080, -30px 20px 40px dimgrey }
 h2 {font-family: Helvetica, sans-serif}</style></head>
 <body>
 
 
-<h1 style="margin-left:25px">BATHROOM<br>CLIMATE &#128704;<br>CONTROLLER</h1>
-</br>
+<h1 style="margin-left:25px">Easy Plotting with CanvasPlotter</h1>
+</br
 <div style="width:550px" class="shade">
 <h2>Temperature : 27.7°C</h2>
 <h2>Dew Point: 28.2°C</h2>
@@ -17,13 +17,13 @@ h2 {font-family: Helvetica, sans-serif}</style></head>
 
 <p id="demo"></p>
 
-<canvas id="myCanvas" width="550" height="450" class="shade">
+<canvas id="canvasPlotter" width="550" height="450" class="shade">
 Your browser does not support the canvas element.
 </canvas>
 
 <script>
 function drawCanvas( tempGraph, dewPointGraph, humidityGraph){  
-    var canvas = document.getElementById( "myCanvas" );  
+    var canvas = document.getElementById( "canvasPlotter" );  
     var context = canvas.getContext( "2d" );
     var GRAPH_TOP = 25;  
     var GRAPH_BOTTOM = 375;  

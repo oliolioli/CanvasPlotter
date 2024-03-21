@@ -3,11 +3,11 @@ CanvasPlot is a very simple plotter designed for straightforward plotting using 
 
 ## Features ##
 
-- Dependency-Free: CanvasPlot is committed to simplicity. It doesn't rely on external libraries, ensuring a streamlined and efficient plotting experience.
+- **Dependency-Free**: CanvasPlot is committed to simplicity. It doesn't rely on external libraries, ensuring a streamlined and efficient plotting experience.
 
-- Offline Functionality: Embrace the flexibility of working offline. CanvasPlot enables developers to craft engaging visualizations without the need for a constant internet connection, catering to projects in various environments.
+- **Offline Functionality**: Embrace the flexibility of working offline. CanvasPlot enables developers to craft engaging visualizations without the need for a constant internet connection, catering to projects in various environments.
 
-- Privacy-First: User privacy is a top priority. CanvasPlot refrains from tracking any user data, providing a secure and anonymous plotting environment for both developers and end-users.
+- **Privacy-First**: User privacy is a top priority. CanvasPlot refrains from tracking any user data, providing a secure and anonymous plotting environment for both developers and end-users.
 
 # Contributions #
 This project welcomes contributions and feedback! If you encounter issues, have suggestions, or want to contribute improvements, feel free to open an issue or submit a pull request.

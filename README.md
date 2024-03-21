@@ -1,5 +1,7 @@
 # CanvasPlotter (work in progress) #
-CanvasPlot is a very simple plotter designed for straightforward plotting using HTML Canvas and nothing more. This project is currently in progress, aimed at providing developers with a lightweight and dependency-free solution for creating simple charts and graphs (for example for your offline IOT-device). The goal is to offer an intuitive plotting experience that respects user privacy, works offline, and requires no external dependencies.
+CanvasPlot is a very simple plotter designed for straightforward plotting using HTML Canvas and nothing more. 
+
+This project is currently in progress, aimed at providing developers with a lightweight and dependency-free solution for creating simple charts and graphs (for example for your offline IOT-device). The goal is to offer an intuitive plotting experience that respects user privacy, works offline, and requires no external dependencies.
 
 ![plotter](https://github.com/oliolioli/CanvasPlotter/assets/4264535/85bb7ab8-ddd7-4eae-87b7-21f63dfb4fe2)
 

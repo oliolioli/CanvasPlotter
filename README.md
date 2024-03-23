@@ -44,5 +44,18 @@ for( var i = 0; i < tempGraph.length; i++ ){
 
 Rename function if needed.
 
+
+### Drawing graph temperature legend ###
+
+```
+context.font = "italic 12px Arial";  
+context.fillStyle = "black";
+context.fillText( "Temperature", GRAPH_RIGHT, (GRAPH_BOTTOM) + 40);
+context.fillStyle = "red";  
+context.fillText( "Dew point", GRAPH_RIGHT, (GRAPH_BOTTOM) + 60 );
+context.fillStyle = "#002080";  
+context.fillText( "Humidity", GRAPH_LEFT - 30, (GRAPH_BOTTOM) + 50 );
+```
+
 # Contributions #
 This project welcomes contributions and feedback! If you encounter issues, have suggestions, or want to contribute improvements, feel free to open an issue or submit a pull request.

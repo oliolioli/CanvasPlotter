@@ -16,5 +16,18 @@ This project is currently in progress, aimed at providing developers with a ligh
 
 ![plotter](https://github.com/oliolioli/CanvasPlotter/assets/4264535/85bb7ab8-ddd7-4eae-87b7-21f63dfb4fe2)
 
+
+## Howto configure your simple canvas plotter ##
+
+### Configure size of plot ###
+`
+    var GRAPH_TOP = 25;  
+    var GRAPH_BOTTOM = 375;  
+    var GRAPH_LEFT = 35;  
+    var GRAPH_RIGHT = 480;    
+    var GRAPH_HEIGHT = 350;  
+    var GRAPH_WIDTH = 450;  
+`
+
 # Contributions #
 This project welcomes contributions and feedback! If you encounter issues, have suggestions, or want to contribute improvements, feel free to open an issue or submit a pull request.

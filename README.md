@@ -30,7 +30,7 @@ var GRAPH_HEIGHT = 350;
 var GRAPH_WIDTH = 450;
 ```
 
-### Get maximum of measuring points ###
+### Get maximum of measuring points (for each curve) ###
 
 ```
 // get max temp to draw right y-axis (= temp and also dew point)

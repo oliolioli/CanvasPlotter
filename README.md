@@ -22,13 +22,27 @@ This project is currently in progress, aimed at providing developers with a ligh
 ### Configure size of plot ###
 
 ```
-var GRAPH_TOP = 25;\
-var GRAPH_BOTTOM = 375;  
-var GRAPH_LEFT = 35;  
-var GRAPH_RIGHT = 480;    
-var GRAPH_HEIGHT = 350;  
-var GRAPH_WIDTH = 450;  
+var GRAPH_TOP = 25;
+var GRAPH_BOTTOM = 375; 
+var GRAPH_LEFT = 35;
+var GRAPH_RIGHT = 480;   
+var GRAPH_HEIGHT = 350; 
+var GRAPH_WIDTH = 450;
 ```
+
+### Get maximum of measuring points ###
+
+```
+// get max temp to draw right y-axis (= temp and also dew point)
+var largestTemp = 0;  
+for( var i = 0; i < tempGraph.length; i++ ){  
+    if( tempGraph[ i ] > largestTemp ){  
+        largestTemp = tempGraph[ i ] + 5;  
+    }  
+}
+```
+
+Rename function if needed.
 
 # Contributions #
 This project welcomes contributions and feedback! If you encounter issues, have suggestions, or want to contribute improvements, feel free to open an issue or submit a pull request.

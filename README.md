@@ -22,8 +22,7 @@ This project is currently in progress, aimed at providing developers with a ligh
 ### Configure size of plot ###
 
 `
-var GRAPH_TOP = 25;
-
+var GRAPH_TOP = 25;\
 var GRAPH_BOTTOM = 375;  
 var GRAPH_LEFT = 35;  
 var GRAPH_RIGHT = 480;    

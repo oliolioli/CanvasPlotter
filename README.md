@@ -3,6 +3,11 @@ CanvasPlot is a very simple plotter designed for straightforward plotting using 
 
 This project is currently in progress, aimed at providing developers with a lightweight and dependency-free solution for creating simple charts and graphs (for example for your offline IOT-device). The goal is to offer an intuitive lightweight plotting experience that respects user privacy, works offline, and requires no external dependencies.
 
+Of course, there are the well-known charting libraries such as (Plotly)[https://github.com/plotly/plotly.js], Chart.js and D3.js. But even Plotly requires 3.5 MB and consists of compressed ASCII text with very long lines (58407).
+
+Using such JavaScript libraries on small IOT devices is annoying.
+
+
 ## Features ##
 
 - **Dependency-Free**: CanvasPlot is committed to simplicity. It doesn't rely on external libraries, ensuring a streamlined and efficient plotting experience.

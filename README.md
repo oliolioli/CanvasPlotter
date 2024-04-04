@@ -41,8 +41,7 @@ var largestTemp = 0;
 for( var i = 0; i < tempGraph.length; i++ ){  
     if( tempGraph[ i ] > largestTemp ){  
         largestTemp = tempGraph[ i ] + 5;  
-    }  
-}
+    }}
 ```
 
 Rename function if needed.

@@ -19,7 +19,7 @@ Of course, there are the well-known charting libraries such as [Plotly](https://
 
 ![plotter](https://github.com/oliolioli/CanvasPlotter/assets/4264535/85bb7ab8-ddd7-4eae-87b7-21f63dfb4fe2)
 
-Example of plotting temperature, humidity and resulting dew point. [Used in project [](https://github.com/oliolioli/BathroomClimateController)].
+Example of plotting temperature, humidity and resulting dew point. [Used in project ![](https://github.com/oliolioli/BathroomClimateController)].
 
 ## Howto configure your simple canvas plotter ##
 

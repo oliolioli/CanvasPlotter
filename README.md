@@ -4,7 +4,7 @@
 
 This project is currently in progress, aimed at providing developers with a lightweight and dependency-free solution for creating simple charts and graphs (for example for your offline IOT-device). The goal is to offer an intuitive lightweight plotting experience that respects user privacy, works offline, and requires no external dependencies.
 
-Of course, there are the well-known charting libraries such as [Plotly](https://github.com/plotly/plotly.js), Chart.js and D3.js. But even Plotly requires 3.5 MB and consists of compressed ASCII text "with very long lines". Using such JavaScript libraries on small IOT devices is annoying. This is where the idea of using HTML Canvas to perform simple plotting tasks on the fly comes into play.
+Of course, there are the well-known charting libraries such as [Plotly](https://github.com/plotly/plotly.js), Chart.js and D3.js. But even lightweight Plotly requires 3.5 MB and consists of compressed ASCII text "with very long lines". Using such JavaScript libraries on small IOT devices is annoying. This is where the idea of using HTML Canvas to perform simple plotting tasks on the fly comes into play.
 
 
 ## Features ##

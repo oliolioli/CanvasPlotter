@@ -1,4 +1,4 @@
-# CanvasPlotter (work in progress) #
+# CanvasPlotter (proof of concept; work in progress) #
 
 **CanvasPlotter is a very simple plotter designed for straightforward plotting using [HTML Canvas](https://www.w3schools.com/html/html5_canvas.asp) and nothing more.**
 

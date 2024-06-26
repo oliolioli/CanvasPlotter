@@ -1,6 +1,6 @@
 # CanvasPlotter (work in progress) #
 
-**CanvasPlot is a very simple plotter designed for straightforward plotting using [HTML Canvas](https://www.w3schools.com/html/html5_canvas.asp) and nothing more.**
+**CanvasPlotter is a very simple plotter designed for straightforward plotting using [HTML Canvas](https://www.w3schools.com/html/html5_canvas.asp) and nothing more.**
 
 This project is currently in progress, aimed at providing developers with a lightweight and dependency-free solution for creating simple charts and graphs (for example for your offline IOT-device). The goal is to offer an intuitive lightweight plotting experience that respects user privacy, works offline, and requires no external dependencies.
 
